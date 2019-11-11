@@ -5,4 +5,4 @@ compile:
 	@clang++ -o avl.o main.cpp
 
 clean:
-	@rm avl.o
+	@rm *.o
